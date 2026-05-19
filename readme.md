@@ -88,6 +88,8 @@ streamlit run src/app.py
 🌐 Live Demo
 Streamlit Deployment
 
+images/screenshots/dashboard.png
+
 Live Expense Tracker App
 
 📈 Future Enhancements
