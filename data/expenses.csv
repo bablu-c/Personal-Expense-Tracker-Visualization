@@ -1,0 +1,201 @@
+Date,Category,Amount,Payment_Method,Description
+2026-04-01,Shopping,2541,Net Banking,Uber Ride
+2026-01-21,Health,4849,Cash,Uber Ride
+2026-04-05,Shopping,4909,Card,Movie Ticket
+2026-03-10,Education,2309,Card,Lunch
+2026-02-16,Education,1286,UPI,Medicine
+2026-02-05,Bills,3256,Card,Uber Ride
+2026-03-06,Health,1932,UPI,Lunch
+2026-04-29,Bills,202,UPI,Books
+2026-02-09,Shopping,4791,Cash,Electricity Bill
+2026-01-16,Bills,1110,Net Banking,Electricity Bill
+2026-02-23,Shopping,2817,UPI,Medicine
+2026-03-08,Entertainment,1061,Cash,Amazon Purchase
+2026-03-26,Health,677,Cash,Amazon Purchase
+2026-02-15,Transport,2975,Card,Uber Ride
+2026-03-30,Bills,3718,Card,Amazon Purchase
+2026-03-29,Entertainment,890,Net Banking,Books
+2026-01-24,Transport,1981,Card,Movie Ticket
+2026-02-06,Education,3031,Card,Lunch
+2026-04-21,Education,270,UPI,Electricity Bill
+2026-01-23,Entertainment,2158,Card,Medicine
+2026-04-09,Transport,1813,Cash,Books
+2026-03-05,Health,881,Cash,Books
+2026-03-31,Entertainment,464,Net Banking,Amazon Purchase
+2026-02-02,Health,2446,Net Banking,Movie Ticket
+2026-02-26,Entertainment,2350,UPI,Amazon Purchase
+2026-03-22,Food,1919,Card,Amazon Purchase
+2026-04-15,Food,1740,Cash,Medicine
+2026-03-14,Transport,1999,UPI,Electricity Bill
+2026-01-01,Health,2950,Cash,Medicine
+2026-02-01,Health,3228,Card,Electricity Bill
+2026-03-29,Transport,2443,Cash,Lunch
+2026-03-09,Transport,4782,Cash,Movie Ticket
+2026-04-01,Food,2234,Cash,Amazon Purchase
+2026-02-22,Food,1977,Cash,Medicine
+2026-02-20,Food,3984,Net Banking,Lunch
+2026-01-29,Education,589,Card,Medicine
+2026-02-16,Transport,2681,Card,Movie Ticket
+2026-02-21,Bills,2359,Net Banking,Movie Ticket
+2026-01-08,Transport,4357,UPI,Uber Ride
+2026-01-14,Bills,578,Net Banking,Uber Ride
+2026-04-18,Entertainment,4480,Net Banking,Movie Ticket
+2026-01-03,Education,3067,Cash,Electricity Bill
+2026-01-02,Entertainment,3505,Net Banking,Amazon Purchase
+2026-01-16,Transport,1603,Cash,Amazon Purchase
+2026-02-11,Health,1695,Card,Medicine
+2026-02-02,Transport,4576,UPI,Lunch
+2026-02-27,Education,815,Net Banking,Medicine
+2026-01-07,Health,4663,Cash,Medicine
+2026-02-06,Education,1308,Cash,Uber Ride
+2026-03-04,Transport,4999,UPI,Lunch
+2026-02-04,Entertainment,2505,Net Banking,Medicine
+2026-04-28,Food,3196,UPI,Lunch
+2026-01-22,Bills,1762,Card,Movie Ticket
+2026-02-08,Food,2447,Cash,Lunch
+2026-02-20,Education,4955,Net Banking,Books
+2026-01-04,Food,3849,UPI,Uber Ride
+2026-03-02,Shopping,3847,Cash,Uber Ride
+2026-04-03,Health,1059,Net Banking,Books
+2026-02-11,Shopping,1747,UPI,Lunch
+2026-02-21,Shopping,3834,Cash,Electricity Bill
+2026-02-08,Bills,872,UPI,Uber Ride
+2026-01-21,Entertainment,1450,UPI,Uber Ride
+2026-01-21,Entertainment,4652,Cash,Uber Ride
+2026-01-28,Education,1436,UPI,Books
+2026-02-12,Shopping,2799,Net Banking,Electricity Bill
+2026-01-05,Health,4090,Card,Books
+2026-03-18,Entertainment,3028,UPI,Amazon Purchase
+2026-04-28,Bills,3015,UPI,Amazon Purchase
+2026-01-16,Food,1650,UPI,Movie Ticket
+2026-02-12,Entertainment,102,Net Banking,Electricity Bill
+2026-03-29,Shopping,4102,UPI,Amazon Purchase
+2026-04-29,Education,2418,UPI,Movie Ticket
+2026-01-03,Food,1813,Net Banking,Electricity Bill
+2026-01-03,Bills,2026,Card,Medicine
+2026-05-01,Food,3084,UPI,Medicine
+2026-04-23,Bills,2219,Cash,Lunch
+2026-04-18,Entertainment,835,UPI,Lunch
+2026-02-02,Entertainment,3232,Cash,Movie Ticket
+2026-03-28,Shopping,4618,Net Banking,Medicine
+2026-03-29,Transport,1818,UPI,Medicine
+2026-04-10,Transport,243,Card,Books
+2026-02-11,Health,4476,Card,Books
+2026-03-25,Bills,4838,Cash,Electricity Bill
+2026-01-19,Food,899,Cash,Books
+2026-04-29,Transport,3408,Net Banking,Movie Ticket
+2026-03-11,Entertainment,4244,Cash,Books
+2026-01-01,Food,1791,Cash,Books
+2026-01-17,Shopping,3383,Cash,Lunch
+2026-01-24,Shopping,1789,UPI,Books
+2026-02-06,Entertainment,570,Net Banking,Medicine
+2026-02-05,Bills,1982,Cash,Lunch
+2026-01-07,Education,1349,UPI,Uber Ride
+2026-01-11,Food,782,Cash,Uber Ride
+2026-01-28,Transport,4064,Cash,Uber Ride
+2026-04-30,Education,2429,Card,Medicine
+2026-04-28,Food,4113,Cash,Uber Ride
+2026-01-07,Education,530,Card,Amazon Purchase
+2026-04-27,Transport,557,Card,Lunch
+2026-03-09,Food,1354,UPI,Electricity Bill
+2026-02-17,Entertainment,3381,Card,Lunch
+2026-01-25,Health,2936,Cash,Electricity Bill
+2026-04-21,Food,2051,UPI,Uber Ride
+2026-01-22,Education,2871,Card,Electricity Bill
+2026-03-20,Transport,1350,Net Banking,Medicine
+2026-01-17,Education,1101,UPI,Books
+2026-01-15,Transport,2053,Cash,Medicine
+2026-02-11,Shopping,4652,Cash,Amazon Purchase
+2026-02-21,Transport,3571,Cash,Medicine
+2026-03-23,Food,676,UPI,Electricity Bill
+2026-04-11,Education,4950,Net Banking,Electricity Bill
+2026-04-15,Education,1643,Cash,Electricity Bill
+2026-04-17,Bills,2872,Net Banking,Medicine
+2026-03-13,Entertainment,4607,Card,Uber Ride
+2026-04-16,Shopping,4414,Net Banking,Books
+2026-03-06,Entertainment,2719,Net Banking,Medicine
+2026-03-10,Education,2571,Cash,Electricity Bill
+2026-02-10,Bills,2980,Cash,Uber Ride
+2026-03-29,Bills,427,UPI,Books
+2026-02-03,Transport,681,Net Banking,Amazon Purchase
+2026-03-08,Shopping,2343,UPI,Medicine
+2026-01-29,Shopping,4061,Net Banking,Electricity Bill
+2026-03-10,Bills,894,UPI,Electricity Bill
+2026-03-07,Entertainment,905,Card,Lunch
+2026-02-22,Transport,1292,Net Banking,Books
+2026-04-18,Food,3573,UPI,Electricity Bill
+2026-05-01,Education,3441,Card,Books
+2026-04-13,Shopping,3194,Net Banking,Medicine
+2026-02-16,Education,543,Cash,Books
+2026-04-27,Transport,4500,Card,Books
+2026-01-31,Bills,2679,Card,Lunch
+2026-04-08,Food,4076,Net Banking,Electricity Bill
+2026-04-21,Food,582,UPI,Amazon Purchase
+2026-03-09,Bills,2524,Cash,Movie Ticket
+2026-01-17,Health,2663,Cash,Medicine
+2026-01-04,Health,3283,Cash,Movie Ticket
+2026-03-23,Education,1920,Card,Amazon Purchase
+2026-04-10,Health,4872,Cash,Electricity Bill
+2026-04-24,Food,761,Card,Uber Ride
+2026-01-08,Shopping,761,UPI,Amazon Purchase
+2026-03-28,Food,2375,UPI,Electricity Bill
+2026-04-22,Transport,3144,UPI,Lunch
+2026-03-31,Health,4280,UPI,Lunch
+2026-02-24,Health,2945,UPI,Movie Ticket
+2026-01-31,Health,2331,UPI,Books
+2026-04-15,Education,4430,UPI,Amazon Purchase
+2026-04-17,Shopping,4131,UPI,Lunch
+2026-02-28,Education,2552,Cash,Lunch
+2026-02-10,Food,4076,Cash,Medicine
+2026-02-08,Shopping,3930,UPI,Electricity Bill
+2026-04-21,Bills,4476,Cash,Amazon Purchase
+2026-01-04,Transport,4541,Net Banking,Amazon Purchase
+2026-03-19,Entertainment,2823,Cash,Lunch
+2026-03-06,Education,1908,Net Banking,Electricity Bill
+2026-02-18,Food,1094,UPI,Electricity Bill
+2026-04-28,Entertainment,1461,Cash,Electricity Bill
+2026-04-24,Shopping,2765,Net Banking,Movie Ticket
+2026-02-04,Education,4533,Cash,Electricity Bill
+2026-03-26,Shopping,244,Net Banking,Amazon Purchase
+2026-02-25,Shopping,331,Cash,Amazon Purchase
+2026-04-21,Shopping,4101,Card,Electricity Bill
+2026-03-05,Food,3077,UPI,Amazon Purchase
+2026-04-17,Education,2648,Net Banking,Medicine
+2026-01-17,Education,1189,Net Banking,Medicine
+2026-01-29,Health,3448,UPI,Lunch
+2026-04-04,Education,4016,Net Banking,Movie Ticket
+2026-01-27,Transport,3203,Cash,Books
+2026-04-27,Transport,4530,UPI,Amazon Purchase
+2026-01-21,Health,2980,Net Banking,Uber Ride
+2026-02-25,Food,3268,Card,Medicine
+2026-03-21,Bills,3278,Cash,Lunch
+2026-02-03,Shopping,3014,Net Banking,Lunch
+2026-02-15,Entertainment,1598,Card,Lunch
+2026-03-16,Shopping,3028,Net Banking,Uber Ride
+2026-04-29,Shopping,4056,Net Banking,Movie Ticket
+2026-03-02,Shopping,584,Card,Electricity Bill
+2026-03-09,Health,4854,Card,Books
+2026-04-18,Food,583,Cash,Electricity Bill
+2026-03-16,Health,3930,Cash,Lunch
+2026-03-29,Bills,1028,UPI,Uber Ride
+2026-01-19,Shopping,1023,UPI,Electricity Bill
+2026-04-29,Entertainment,4257,Net Banking,Medicine
+2026-03-09,Transport,4433,Net Banking,Medicine
+2026-02-23,Transport,2643,Cash,Medicine
+2026-01-05,Education,2500,Card,Electricity Bill
+2026-04-11,Health,4730,Net Banking,Amazon Purchase
+2026-04-07,Bills,2906,UPI,Uber Ride
+2026-04-25,Bills,2677,Net Banking,Electricity Bill
+2026-01-21,Entertainment,3625,Card,Electricity Bill
+2026-03-01,Shopping,2940,Cash,Electricity Bill
+2026-02-26,Health,2546,Card,Uber Ride
+2026-03-28,Food,1357,Card,Electricity Bill
+2026-04-19,Food,1310,Cash,Books
+2026-03-01,Health,2033,Cash,Movie Ticket
+2026-01-15,Education,3876,Net Banking,Electricity Bill
+2026-02-28,Shopping,1884,Card,Books
+2026-01-13,Bills,3980,UPI,Books
+2026-01-15,Shopping,2033,Cash,Amazon Purchase
+2026-04-29,Entertainment,2819,Card,Uber Ride
+2026-05-01,Education,4926,Net Banking,Books
+2026-04-12,Transport,2676,UPI,Uber Ride
